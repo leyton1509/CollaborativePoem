@@ -1,0 +1,6 @@
+public void static main(){
+    
+
+
+
+}
